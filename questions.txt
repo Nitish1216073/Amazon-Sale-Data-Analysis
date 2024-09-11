@@ -1,0 +1,35 @@
+1. **What is the distribution of product sizes purchased by customers?**
+   - Which product size is the most popular, and how do other sizes compare?
+
+2. **Which courier service is most frequently used for shipping orders?**
+   - How does the choice of courier impact delivery time and customer satisfaction?
+
+3. **What is the distribution of product categories, and which category is the most popular?**
+   - Are there any emerging trends in product category preferences over time?
+
+4. **What is the proportion of retailer vs. B2B buyers?**
+   - How do buying behaviors differ between retailers and B2B customers?
+
+5. **Which cities contribute the most to the customer base?**
+   - What are the sales trends in top cities, and how do they compare to other regions?
+
+6. **How is the customer base distributed across different states, with a focus on Maharashtra?**
+   - What factors contribute to Maharashtra being a key market for the business?
+
+7. **What are the seasonal trends in product sales?**
+   - Are there specific times of the year when certain sizes, categories, or regions show higher sales?
+
+8. **How does the distribution of orders by size correlate with product category?**
+   - Are there specific categories where certain sizes are more popular?
+
+9. **What is the average order value (AOV) for different buyer types (Retailer vs. B2B)?**
+   - How does AOV vary across different regions and product categories?
+
+10. **What is the return rate of products by size, category, and region?**
+    - Are there specific sizes or categories with higher return rates, and do they vary by region?
+
+11. **What is the distribution of delivery times across different regions and courier services?**
+    - Are there significant delays in certain regions or with specific courier services?
+
+12. **How does customer feedback or ratings vary by product size, category, and delivery experience?**
+    - What insights can be drawn from customer reviews regarding product fit, quality, and delivery?
